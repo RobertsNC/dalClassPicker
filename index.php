@@ -11,6 +11,9 @@
     <body>
         <header>
             <div class="container">
+                    <div id="logo">
+                        <img src="./img/dalCrest.jpg" width="30" height="30">
+                    </div>
                     <div id="branding">
                         <h1>Dalhousie Schedule Builder</h1>
                     </div>
@@ -158,5 +161,15 @@
                             </div>
             </div>
         </section>
+
+        <section id="">
+
+        </section>
+
+
     </body>
+
+    <footer>
+        <p>Made with &hearts; by Dylan Roberts</p>
+    </footer>
 </html>
